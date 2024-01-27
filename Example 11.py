@@ -1,3 +1,4 @@
+use pre define
 Example 1:
 import math
 x = math.sqrt (64)
