@@ -24,3 +24,12 @@ def evenodd(x):
         print("odd")
 evenodd (2)
 evenodd (3)
+
+Example 4:
+# Python keyword argument
+
+def student(firstname, lastname):
+    print(firstname, lastname)
+#keyword arguments
+student (firstname ='Geek', lastname='practice')
+student (lastname ='Practice', firstname='Geek')
