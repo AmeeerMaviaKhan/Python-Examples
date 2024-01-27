@@ -4,3 +4,11 @@ def int():
     print("My Father Name Is Aamir Khan")
     print("I'm Student for Bano Qabil 20.")
 int()
+
+# python program to demonstrat
+#default argements
+def myFun(x, y=50):
+    print("x: ", x)
+    print("y: ", y)
+    #Driver Code
+myFun(10)
