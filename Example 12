@@ -1,0 +1,6 @@
+# use  declaring a function
+def int():
+    print("HI, I'm ameer mavia khah")
+    print("My Father Name Is Aamir Khan")
+    print("I'm Student for Bano Qabil 20.")
+int()
