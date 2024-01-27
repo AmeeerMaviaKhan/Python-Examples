@@ -33,3 +33,11 @@ def student(firstname, lastname):
 #keyword arguments
 student (firstname ='Geek', lastname='practice')
 student (lastname ='Practice', firstname='Geek')
+
+Example 5:
+# function with two arguments
+def add_numbers(num1, num2):
+    sum = num1 + num2
+    print("sum: ",sum)
+#function call with two values
+add_numbers(5,4)
