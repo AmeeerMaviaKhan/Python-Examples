@@ -1,10 +1,12 @@
 # use  declaring a function
+Example 1:
 def int():
     print("HI, I'm ameer mavia khah")
     print("My Father Name Is Aamir Khan")
     print("I'm Student for Bano Qabil 20.")
 int()
 
+Example 2:
 # python program to demonstrat
 #default argements
 def myFun(x, y=50):
@@ -12,3 +14,13 @@ def myFun(x, y=50):
     print("y: ", y)
     #Driver Code
 myFun(10)
+
+Example 3:
+# Python Parameterized Function
+def evenodd(x):
+    if (x%2==0):
+        print("even")
+    else:
+        print("odd")
+evenodd (2)
+evenodd (3)
